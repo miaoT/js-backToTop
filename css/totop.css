@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.tabIcon {
+    display: block;
+    width: 38px;
+    height: 38px;
+    position: relative;
+    z-index: 2;
+    background-color: #2f343a;
+    background-image: url(../img/bk_icon.png);
+    background-repeat: no-repeat;
+}
+

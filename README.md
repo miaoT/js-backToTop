@@ -1,5 +1,8 @@
 ## backToTop.js
 
+![back to top](./img/backToTop.gif)
+
+	
 A simple back to top button that can be used in any webpages. 
 	
 	

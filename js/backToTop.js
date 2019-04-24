@@ -10,7 +10,6 @@
 	    backgroundColor: "#2f343a",
 	}
 
-	// DOM
 	function goTop(options){
 		var self = this;
 		self = Object.assign(self,options,defaultSettings);

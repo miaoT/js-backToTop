@@ -24,6 +24,9 @@ It can load last after all web contents, therefore, add the below codes at the b
 
 ```	
 	
+### Demo
+[Check it in CodePen](https://codepen.io/miaoT/pen/ZNaBNR "js-backToTop.js")
+
 	
 #### Note
 The demo picture is a screenshot from a website I developed during my studies. A disclaimer is stated at the bottom of the website.
